@@ -8,7 +8,7 @@ Panel de administración para Laravel + Vue3 + Tailwind con Inertia3. Incluye so
 - Inertia3-Vue
 - Vue3
 
-## Instalación de uso
+## Instalación y configuración
 
 1. Clonar el repositorio en local con el nombre que va a tener el proyecto:
 
